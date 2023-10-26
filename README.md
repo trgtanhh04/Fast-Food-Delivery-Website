@@ -11,7 +11,7 @@ This is a project for a website selling soft drinks and bubble tea using HTML an
 
 ## Installation and Running the Project
 
-1. Clone the project from the GitHub repository: ![](https://github.com/Tienanh204/Fast-Food-Delivery-Website)
+1. Clone the project from the GitHub repository: [(https://github.com/Tienanh204/Fast-Food-Delivery-Website)](https://github.com/Tienanh204/Fast-Food-Delivery-Website)
 
 2. Set up a virtual environment and install the required libraries:
 cd your-repo
@@ -23,7 +23,7 @@ pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
 
-4. Truy cập ứng dụng trên trình duyệt của bạn tại [http://localhost:8000/](http://localhost:8000/).
+4. Access the application in your web browser at [http://localhost:8000/](http://localhost:8000/).
    
 
 ## Illustrations
